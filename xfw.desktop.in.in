@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Xfw
+GenericName=Text Editor
+Comment=A simple text editor for Xfe
+Exec=xfw %F
+Terminal=false
+Type=Application
+StartupNotify=@STARTUPNOTIFY@
+MimeType=text/plain;
+Icon=xfw
+Categories=Utility;TextEditor;

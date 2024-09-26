@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Xfp
+GenericName=Package Manager
+Comment=A simple package manager for Xfe
+Exec=xfp %f
+Terminal=false
+Type=Application
+StartupNotify=@STARTUPNOTIFY@
+MimeType=application/x-deb;application/x-debian-package;application/x-rpm;
+Icon=xfp
+Categories=Utility;PackageManager;
